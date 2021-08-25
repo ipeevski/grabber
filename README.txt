@@ -6,7 +6,7 @@ Grabber v0.1
 ------------
 
 Grabber is a web application which try to be as useful as possible ie allows:
-- back box testing
+- black box testing
 - hybrid analysis
 - javscript source code checker
 
